@@ -1,3 +1,4 @@
 # ECEN220
 Signals and Systems -- VUW
-Labs completed by MATLAB
+
+Labs completed by using MATLAB
