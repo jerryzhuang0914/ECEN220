@@ -1,4 +1,4 @@
-# ECEN220
+# ECEN220 2020
 Signals and Systems -- VUW
 
 Labs completed by using MATLAB
